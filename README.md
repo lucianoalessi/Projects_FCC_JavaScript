@@ -1,6 +1,6 @@
 # Projects_FCC_JavaScript
 
-Los siguientes 5 proyectos son los desafios realizados por mi, para obetener la certificacion en Free code camp. 
+Los siguientes 5 proyectos son los desafios realizados por mi, para obetener la certificacion "Algoritmos de JavaScript y Estructuras de Datos" en Free code camp. 
 
 1- Primer proyecto: Comprobador de palíndromos
 
